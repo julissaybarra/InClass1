@@ -25,5 +25,9 @@ public class Person extends NameHolder {
 		return description;
 
 	}
+	
+	public String getLastName() {
+		return this.lastName;
+	}
 
 }
