@@ -49,6 +49,7 @@ public class Driver {
 				System.out.println(s);
 			}
 			
+			//review stack vs queueueeuue
 			System.out.print(m.size());
 			
 			//List<Student> sx = new ArrayList<>(); //list is an interface, so you can't instantiate is explicitly
