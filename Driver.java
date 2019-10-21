@@ -45,7 +45,7 @@ public class Driver {
 			
 			Integer index = 0;
 			for (Student s: students) {
-				m.put("s1" + index++, s); 
+				m.put("s1" + index++, s); //check later: can the same index have the same id? (reword)
 				System.out.println(s);
 			}
 			
